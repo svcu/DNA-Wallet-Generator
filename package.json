@@ -1,0 +1,14 @@
+{
+  "name": "dna-wallet-generator",
+  "version": "1.0.0",
+  "description": "Wallet Generator for the DNA PROTOCOL",
+  "main": "generator.js",
+  "scripts": {
+    "test": "node generator.js"
+  },
+  "author": "Sergio Valdés Valdés",
+  "license": "ISC",
+  "dependencies": {
+    "elliptic": "^6.5.4"
+  }
+}
